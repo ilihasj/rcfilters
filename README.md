@@ -10,10 +10,10 @@ To use the batch filters, simply copy the text contents and paste them into the 
 
 With a batch filter, it is possible to set multiple matches by excluding Pokémon you don't want to find, all while using a singular filter.
 
-This works by ignoring Pokémon listed in the Batch Filters section via `!Species=<name>` syntax, where <name> is the species' name based on [PKHeX's recognized names list](<https://github.com/kwsch/PKHeX/blob/master/PKHeX.Core/Game/Enums/Species.cs>).
+This works by ignoring Pokémon listed in the Batch Filters section via `!Species=<name>` syntax, where `<name>` is the species' name based on [PKHeX's recognized names list](<https://github.com/kwsch/PKHeX/blob/master/PKHeX.Core/Game/Enums/Species.cs>).
 
-*Note: When using names, some will need to be changed to include their special characters or spaces such as `Nidoran♀`, `Iron Hands`, `Mr. Mime`, `Farfetch’d`, and so on. I've taken care of this for you in the attached files.*
-*Alternatively, you can use the Pokémon's # positon in the Species.cs list as well, where None counts as 0. Example: to exclude Nidoran♀, you would use `!Species=29`*.
+*Note: When using names, some will need to be changed to include their special characters or spaces such as `Nidoran♀`, `Iron Hands`, `Mr. Mime`, `Farfetch’d`, and so on.*
+*Alternatively, you can use the Pokémon's # position in the Species.cs list as well, where None counts as 0. Example: to exclude Nidoran♀, you would use `!Species=29`*.
 
 For specific forms, you'll have to ignore the Pokémon in the batch filter, and then make a separate filter that matches the form you want. 
 
