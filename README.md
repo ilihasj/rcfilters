@@ -66,4 +66,4 @@ XXXS   | 0
 
 Adjust the values above as needed and place them in the "Batch Filters" text box of your filter.
 
-Once again, credit to Sock for the above explanation. The data on sizing was sources from [Serebii](https://www.serebii.net/scarletviolet/size.shtml). 
+Once again, credit to Sock for the above explanation. The data on sizing was sourced from [Serebii](https://www.serebii.net/scarletviolet/size.shtml). 
