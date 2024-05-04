@@ -31,7 +31,7 @@ Credit to Sock for the above explanation.
 
 - [Master Filter (All Pokémon, Gender Differences, Alphabetical Order)](https://github.com/ilihasj/rcfilters/blob/236fdb44e1fa79731dba43fd3afd5f42eba70225/filters_master_zrvaeal.json) - credit to zrvaeal
 - [Indigo Disk species](https://github.com/ilihasj/rcfilters/blob/a8d14204b021cbdc5152e52e3fdfc4d62d15ab6f/Indigo_Disk.json) - credit to Newt
-- [Only DLC Pokémon + Gender Differences](https://github.com/ilihasj/rcfilters/blob/a8d14204b021cbdc5152e52e3fdfc4d62d15ab6f/DLC_Gender.json) - credit to Hyrula
+- [DLC1 Pokémon + Gender Differences](https://github.com/ilihasj/rcfilters/blob/a8d14204b021cbdc5152e52e3fdfc4d62d15ab6f/DLC_Gender.json) - credit to Hyrula
 - [All Available Raids](https://github.com/ilihasj/rcfilters/blob/a8d14204b021cbdc5152e52e3fdfc4d62d15ab6f/All_Raids.json) - credit to Don
 
 ## Size Batch Filters
